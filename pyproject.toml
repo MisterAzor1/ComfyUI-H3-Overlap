@@ -1,0 +1,17 @@
+[project]
+name = "h3-overlap"
+version = "1.0.0"
+description = "Memory-efficient overlapping frame preparation and seamless crossfade stitching for long MiniMax H3 video workflows."
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = []
+
+classifiers = [
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+]
+
+[project.urls]
+Repository = "https://github.com/MisterAzor1/ComfyUI-H3-Overlap"
+Documentation = "https://github.com/MisterAzor1/ComfyUI-H3-Overlap#readme"
+"Bug Tracker" = "https://github.com/MisterAzor1/ComfyUI-H3-Overlap/issues"
