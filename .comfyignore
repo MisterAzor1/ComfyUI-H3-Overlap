@@ -1,0 +1,13 @@
+.github/
+tests/
+__pycache__/
+*.pyc
+*.log
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.safetensors
+*.ckpt
+*.pt
+*.pth
