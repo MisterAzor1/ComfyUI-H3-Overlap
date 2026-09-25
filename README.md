@@ -130,7 +130,7 @@ Do not resize individual windows to different dimensions.
 An example workflow is available here:
 
 ```text
-example_workflows/Sharpness H3 - 8 Frame Overlap.json
+example_workflows/Sharpen H3 - 8 Frame Overlap.json
 ```
 
 The example demonstrates:
