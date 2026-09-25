@@ -216,3 +216,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ComfyUI directories
+input/
+output/
+temp/
+models/
+
+# Video and model files
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+
+# Editors
+.vscode/
+.idea/
+
+# Logs
+*.log
